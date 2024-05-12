@@ -69,6 +69,5 @@ for sentence in sentences:
 
 ![image](https://github.com/NivethaKumar30/Ex-6--AAI/assets/119559844/87087e71-40f2-4dca-a20b-65a754f039d7)
 
-
 <H3>Result:</H3>
 Thus ,the program to perform the Parts of Speech identification and Synonymis executed sucessfully.
